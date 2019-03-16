@@ -5,7 +5,7 @@ import Search from "./containers/Search";
 const App = () => {
   return (
     <div>
-      Find GIF
+      FIND AWESOME GIF
       <Search />
       <ImageList />
     </div>
